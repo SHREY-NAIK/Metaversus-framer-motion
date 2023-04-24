@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"/home/shrey/Desktop/MetaverseMadness/app/page":["/home/shrey/Desktop/MetaverseMadness/styles/globals.css"]},"/home/shrey/Desktop/MetaverseMadness/app/layout.js":["/home/shrey/Desktop/MetaverseMadness/styles/globals.css"]}
